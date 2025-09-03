@@ -14,9 +14,9 @@
   "name": "your-project",
   "version": "1.0.0",
   "scripts": {
-    "test": "jest"  # or "mocha" or your test runner
+    "test": "jest"  "mocha"
   },
   "devDependencies": {
-    "jest": "^29.0.0"  # or your preferred testing framework
+    "jest": "^29.0.0" 
   }
 }
