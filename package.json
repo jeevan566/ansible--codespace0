@@ -10,3 +10,13 @@
   "author": "",
   "license": "ISC"
 }
+    {
+  "name": "your-project",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"  # or "mocha" or your test runner
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"  # or your preferred testing framework
+  }
+}
