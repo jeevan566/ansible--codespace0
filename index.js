@@ -1,2 +1,2 @@
-console.log("Hello CI");
-echo 'console.log("Hello CI");' > index.js
+"scripts": {
+  "test": "echo 'Running tests...' && exit 0"
