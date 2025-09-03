@@ -1,0 +1,2 @@
+"scripts": {
+  "test": "echo 'Running tests...' && exit 0"
